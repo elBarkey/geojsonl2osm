@@ -8,8 +8,8 @@ Usage
 
 * as a **command line tool**:
   
-        $ npm install -g geojsontoosm
-        $ geojsontoosm file.geojson > file.osm
+        $ npm install -g geojsonl2osm
+        $ geojsonl2osm file.geojsonl > file.osm
   
 * as a **nodejs library**:
   

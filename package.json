@@ -1,13 +1,13 @@
 {
-  "name": "geojsontoosm",
+  "name": "geojsonl2osm",
   "version": "0.0.3",
-  "description": "Convert GeoJSON to OSM",
+  "description": "Convert GeoJSONL (line-delimited GeoJSON) to OSM",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "geojsontoosm": "geojsontoosm"
+    "geojsonl2osm": "geojsonl2osm"
   },
   "keywords": [
     "geojson",
@@ -15,13 +15,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/tyrasd/geojsontoosm.git"
+    "url": "https://github.com/elBarkey/geojsonl2osm.git"
   },
-  "author": "Martin Raifer",
+  "author": "Aang Humaidi",
   "license": "MIT",
   "dependencies": {
-    "concat-stream": "^1.5.0",
-    "geojson-stream": "0.0.0",
     "jxon": "^1.3.2",
     "optimist": "^0.6.1"
   }
