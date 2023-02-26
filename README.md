@@ -1,7 +1,8 @@
-geojsontoosm
+geojsonl2osm
 ============
 
-Converts [GeoJSON](http://www.geojson.org/) to [OSM](http://openstreetmap.org) [data](http://wiki.openstreetmap.org/wiki/OSM_XML).
+This is a fork from [geojsontoosm](https://github.com/tyrasd/geojsontoosm)
+Converts Newline-delimited [GeoJSON](http://www.geojson.org/) to [OSM](http://openstreetmap.org) [data](http://wiki.openstreetmap.org/wiki/OSM_XML).
 
 Usage
 -----
